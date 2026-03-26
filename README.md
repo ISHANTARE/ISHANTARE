@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=3000&color=00e5ff&center=true&vCenter=true&width=1000&lines=❖+COMMANDER+ISHAN+TARE+❖;❖+NEXUS+DATA+ARCHITECT+❖;❖+AI+✦+SPACE+✦+SYSTEMS+❖" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=3000&color=00e5ff&center=true&vCenter=true&width=1000&lines=[+COMMANDER+ISHAN+TARE+];[+NEXUS+DATA+ARCHITECT+];[+AI+-+SPACE+-+SYSTEMS+]" alt="Animated Title" />
 </h1>
 
 <div align="center">
@@ -34,7 +34,7 @@
 <table style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="250" align="center" style="border: none;">
-      <img src="https://i.imgur.com/GjXf59Z.gif" width="220" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Astronaut.png" width="220" />
     </td>
     <td style="border: none;">
       <h3>🟢 STATUS: ORBITAL EXPLORATION</h3>
