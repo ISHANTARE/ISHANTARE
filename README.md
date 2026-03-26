@@ -34,7 +34,7 @@
 <table style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="250" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Astronaut.png" width="220" />
+      <img src="https://media.giphy.com/media/l41YkxvU8c7J7Bba0/giphy.gif" width="220" />
     </td>
     <td style="border: none;">
       <h3>🟢 STATUS: ORBITAL EXPLORATION</h3>
