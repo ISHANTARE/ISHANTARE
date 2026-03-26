@@ -1,141 +1,162 @@
+<!-- HEADER WITH STARS -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Ishan%20Tare%20!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Innovating%20at%20the%20intersection%20of%20AI,%20Data%20Science,%20and%20Systems&descAlignY=55&descAlign=60" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Space Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ffcc&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT;BS+Data+Science+%40+IIT+Madras;AI+%26+Machine+Learning+Explorer;Architecting+the+Future" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/ishan-tare-0950fs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ishan.tare2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ISHANTARE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <h1>🌌 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=00f0ff&center=true&vCenter=true&width=600&lines=COMMANDER+ISHAN+TARE;ENTERING+THE+COSMOS;DATA+ENGINEER;AI+ARCHITECT" alt="Typing SVG" /> 🌌</h1>
+  <p><i>"Exploring the vast unknown of Machine Learning, Astrodynamics, and System Design"</i></p>
+  
+  <a href="https://linkedin.com/in/ishan-tare-0950fs"><img src="https://img.shields.io/badge/Comms-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ishan.tare2005@gmail.com"><img src="https://img.shields.io/badge/Frequency-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ISHANTARE"><img src="https://img.shields.io/badge/Fleet-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
-
-## 👨‍💻 About Me
-
-Welcome to my digital workspace! I'm a developer and aspiring Data Scientist with a passion for building robust logic, deploying intelligent models, and designing intuitive user experiences. 
-
-* 🎓 **Dual Degree Odyssey:** Pursuing **B.Tech CSE** at Vellore Institute of Technology (VIT) & **BS Data Science** at IIT Madras.
-* ✍️ **Creative Side:** I'm a published sci-fi author (*'Carter Blaize'*), an event organizer (Makeathon2025), and a designer.
-* 🚀 **Mission:** To architect tools and AI models that solve real-world complexities.
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+</div>
 <br/>
 
-## 💻 Featured Projects
+<img align="right" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="220" alt="Floating Astronaut" />
 
-<table width="100%" border="0" cellpadding="10" align="center">
+## 🪐 **[ MISSION OVERVIEW ]**
+
+**Current Coordinates:** Dual-Degree Orbit  
+🛰️ **Station 1:** Vellore Institute of Technology (`B.Tech CSE: 2023 - 2027`)  
+🛰️ **Station 2:** IIT Madras (`BS Data Science: 2023 - 2028`)  
+
+I am an algorithmic explorer bridging the gap between raw planetary data and usable intelligence. Whether predicting orbital trajectories, architecting neural networks, or developing autonomous environmental networks, my mission is to build robust tech ready for the extreme demands of the future.
+
+* **Directive 1:** Build scalable Space-Tech & AI models.
+* **Directive 2:** Optimize logistics & hardware pipelines.
+* **Directive 3:** Publish discoveries (Creator of *Carter Blaize* sci-fi).
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+</div>
+<br/>
+
+## 🛸 **[ ORBITAL SHIPYARD | Featured Projects ]**
+
+<table align="center" border="1" cellpadding="10" style="border-color: #00f0ff; background: transparent;">
   <tr>
     <td width="50%" align="center">
-      <h3>🌌 ASTRA</h3>
-      <p><i>High-Fidelity Astrodynamics Engine</i></p>
-      <p>A precision orbital mechanics engine featuring Cowell's numerical propagator, SGP4 propagation, and advanced models for satellite tracking and performance benchmarking.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/HPC-FF4F00?style=flat&logoColor=white" />
-      <img src="https://img.shields.io/badge/3D_Engine-000000?style=flat&logo=three.js&logoColor=white" />
+      <h3>☄️ ASTRA Core Engine</h3>
+      <p><code>[ Navigation Array ]</code></p>
+      <p>High-Fidelity Astrodynamics Engine with Cowell's numerical propagator, precise mechanics, and SGP4 tracking. Built for deep compute and 3D space visualizers.</p>
+      <img src="https://img.shields.io/badge/Python-00f0ff?style=flat-square&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/HPC_|_3D_Engine-ffffff?style=flat-square&logo=three.js&logoColor=black" />
     </td>
     <td width="50%" align="center">
-      <h3>💼 IARMS</h3>
-      <p><i>Inventory & Accounts Receivable System</i></p>
-      <p>A robust dashboard and management platform designed for sophisticated inventory tracking, deployment optimization, strategy testing, and custom UI models.</p>
-      <img src="https://img.shields.io/badge/Analytics-0052CC?style=flat&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Backend-4CAF50?style=flat&logo=node.js&logoColor=white" />
+      <h3>📦 IARMS</h3>
+      <p><code>[ Logistics Node ]</code></p>
+      <p>Massive Inventory & Accounts Receivable Management pipeline. A logistical control panel driving strategy testing, API bridges, and sophisticated dashboards.</p>
+      <img src="https://img.shields.io/badge/React_|_Node-00f0ff?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Data_Analytics-ffffff?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🎨 JSON to Toon Tool</h3>
-      <p><i>Creative Data Visualizer</i></p>
-      <p>An innovative utility that parses structured JSON data and transforms it seamlessly into vibrant, dynamic, cartoon-style visual outputs, blending data processing with art.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/UI/UX-E34F26?style=flat&logoColor=white" />
+      <h3>🎨 JSON to Toon</h3>
+      <p><code>[ Holo-Processor ]</code></p>
+      <p>An innovative JSON mapping visualizer. Intercepts standard data streams and transforms them directly into dynamic, colorful, cartoon-styled structural blueprints.</p>
+      <img src="https://img.shields.io/badge/JavaScript-00f0ff?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Creative_UI-ffffff?style=flat-square" />
     </td>
     <td width="50%" align="center">
       <h3>🏠 Smart Home System</h3>
-      <p><i>IoT Automation Network</i></p>
-      <p>A connected smart environment ecosystem that seamlessly integrates sensors and actuators to automate energy management, access control, and environment settings.</p>
-      <img src="https://img.shields.io/badge/IoT-FF9900?style=flat&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hardware-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Networking-316192?style=flat&logoColor=white" />
+      <p><code>[ Habitat Life Support ]</code></p>
+      <p>A heavily interconnected IoT neural grid. Integrates actuators and sensors to seamlessly automate planetary-habitat controls, safety, and energy matrices.</p>
+      <img src="https://img.shields.io/badge/C++_|_IoT-00f0ff?style=flat-square&logo=c%2B%2B&logoColor=black" />
+      <img src="https://img.shields.io/badge/Hardware-ffffff?style=flat-square" />
     </td>
   </tr>
 </table>
 
-*(Also explored Notebound, UPMA, Blood Guide, and my ASL Interpreter across other repositories!)*
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+</div>
 <br/>
 
-## 🛠️ Tech Stack & Arsenal
+## 🌌 **[ SHIP'S TECH STACK ]**
 
 <div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,go&perline=10" />
-  </a>
-  <p><strong>Data Science & AI</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,postgres,mysql&perline=10" />
-  </a>
-  <p><strong>Web, Cloud & Design</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,figma,photoshop,vscode&perline=10" />
-  </a>
+  <p><b>[ Compute Core ]</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,r,java,js,go&theme=dark" /></a>
+  <br><br>
+  <p><b>[ AI Matrices & Data Hubs ]</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,postgres,mysql&theme=dark" /></a>
+  <br><br>
+  <p><b>[ Interface Controls ]</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,docker,figma&theme=dark" /></a>
 </div>
 
 <br/>
-
-## 💼 Experience Journey
-
-* **Data Science Intern** @ *Zidio* (Oct '25 – Dec '25)
-  * Built Image Captioning and stock market prediction models, improving text gen automation by 40%.
-* **Web & Brand Dev Intern** @ *GT Global Solutions* (Jun '25 – Aug '25) 
-  * Architected corporate digital presence and catalogs for export-import channels.
-* **Data Science Intern** @ *SaiKet Systems* (May '25 – Jun '25)
-  * Implemented an 82% accurate Churn Predictor for client retention.
-* **Head of Design** @ *Entrova* (May '24 – May '25)
-  * Directed brand identity ops and UI designs, increasing user engagement by 30%.
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+</div>
 <br/>
 
-## 🏆 Certifications & Highlights
+## 🌔 **[ EXPEDITION LOGS ]**
+
+<table>
+  <tr>
+    <td><b>1.</b></td>
+    <td><b>Intern_Ops @ Zidio</b> <i>(Oct '25 – Dec '25)</i></td>
+    <td>Deployed deep learning Image Captioning engines and autonomous market models (78% prediction accuracy metrics).</td>
+  </tr>
+  <tr>
+    <td><b>2.</b></td>
+    <td><b>Ops @ GT Global Solutions</b> <i>(Jun '25 – Aug '25)</i></td>
+    <td>Overhauled corporate communications and portfolio networking for heavy export logistics pipelines.</td>
+  </tr>
+  <tr>
+    <td><b>3.</b></td>
+    <td><b>Intern_Ops @ SaiKet Systems</b> <i>(May '25 – Jun '25)</i></td>
+    <td>Calibrated algorithmic Churn Predictors (82% acc) to maximize client retention cycles.</td>
+  </tr>
+  <tr>
+    <td><b>4.</b></td>
+    <td><b>Design_Lead @ Entrova</b> <i>(May '24 – May '25)</i></td>
+    <td>Architected holistic brand frameworks driving a massive 30% surge in system engagement metrics.</td>
+  </tr>
+</table>
 
 <details>
-<summary><b>View Distinctions</b> <i>(Click to expand)</i></summary>
+<summary><b style="color:#00f0ff;">[ ACCESS CLASSIFIED DISTINCTIONS ]</b> <i>(Click to decrypt)</i></summary>
 <br>
 
-- **Remote Sensing & GIS** - Indian Space Research Organisation (ISRO)
-- **Data Science Foundation** - IIT Madras
-- **Hackathons:** Semi-Finalist HackBattle, Team Gestualis DevSoc'25
-- **Leadership:** E-cell exec & Makeathon2025 tech organizer
-- **Creative:** 1st place in Prima Vera Film Making & VIT40 Poster Design
+- 📡 **Remote Sensing & GIS** - ISRO (Indian Space Research Organisation)
+- 📊 **Data Science Foundation** - IIT Madras
+- 📚 **Transmissions:** Published Science Fiction Author (*'Carter Blaize'*)
+- 🎖️ **Command:** Makeathon2025 Lead Technical Organizer, E-cell Executive
+- 🏆 **Hackathons:** Semi-Finalist HackBattle, Team Gestualis DevSoc'25 (ASL Models)
 </details>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+</div>
+<br/>
 
-## 📊 Analytics & Impact
+## ☄️ **[ GALAXY METRICS ]**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ISHANTARE&theme=radar&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ISHANTARE&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHANTARE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHANTARE&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ISHANTARE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHANTARE&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
+<!-- FOOTER WITH STARS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="100px" style="object-fit:cover;" alt="Space Footer"/>
 </div>
