@@ -26,7 +26,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 ## 🛸 `[ SYS.CATALOG // IDENTITY_MATRIX ]`
@@ -34,7 +34,7 @@
 <table style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="250" align="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="220" />
+      <img src="https://i.imgur.com/GjXf59Z.gif" width="220" />
     </td>
     <td style="border: none;">
       <h3>🟢 STATUS: ORBITAL EXPLORATION</h3>
@@ -49,7 +49,7 @@
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 ## 🌌 `[ SYS.MODULES // FLAGSHIP_PROJECTS ]`
@@ -96,7 +96,7 @@ $ load module --hardware
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 
@@ -117,7 +117,7 @@ $ load module --hardware
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 ## ⚙️ `[ SYS.ARSENAL // TECH_CORE ]`
@@ -193,7 +193,7 @@ $ load module --hardware
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 ## 🪐 `[ LOGBOOK // EXPEDITIONS_&_ACCOLADES ]`
@@ -234,7 +234,7 @@ $ load module --hardware
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 ## 📡 `[ SYS.TELEMETRY // GALAXY_METRICS ]`
@@ -269,42 +269,43 @@ $ load module --hardware
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 ## 🌌 `[ SYS.SIMULATION // PROTOCOL: CARTER BLAIZE ]`
 
-> *WARNING: You have entered a simulation matrix. The following choices determine the fate of the ASTRA-Core.*
-
-**SCENARIO:** You are adrift orbiting the Kepler-22 star system. A localized solar flare has knocked out your primary navigation matrix. 
-
-Do you:
-A) `[` [Reroute power to the Cowell Propagator Engine](#choice-a-cowell) `]`
-B) `[` [Manually recalculate telemetry using raw visual data](#choice-b-manual) `]`
-
 <div align="center">
-<hr style="width: 50%; border-top: 1px dashed #00e5ff;"/>
+  <table style="border: 1px solid #00e5ff; background: rgba(13, 17, 23, 0.8); width: 100%; border-radius: 10px;">
+    <tr>
+      <td align="center" style="border-bottom: 2px solid #000; padding: 0;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="80px" style="object-fit:cover; border-radius: 10px 10px 0 0;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px;">
+        <!-- Micro Animations utilizing <details> tags that load typing SVGs ONLY when clicked -->
+        <h4 style="color:#00e5ff;">» INITIATE EMERGENCY PROTOCOL «</h4>
+        <p><i>Your spacecraft is trapped in Kepler-22's gravitational pull. Select an override sequence to restore the ASTRA-Core:</i></p>
+        
+        <details>
+          <summary><b><code><span style="color: #00FF41; cursor: pointer;">[ > BYPASS: REROUTE COWELL PROPAGATOR ]</span></code></b></summary>
+          <br>
+          <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=14&pause=1000&color=00FF41&width=800&height=60&lines=Calibrating+SGP4+Models...;Trajectory+Locked.+Comm-link+Established.;[+MISSION+SUCCESS+]" />
+        </details>
+        <br>
+        <details>
+          <summary><b><code><span style="color: #FF0000; cursor: pointer;">[ > BYPASS: MANUAL TELEMETRY RECALCULATION ]</span></code></b></summary>
+          <br>
+          <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=14&pause=1000&color=FF0000&width=800&height=60&lines=Accessing+raw+visual+arrays...;ERROR:+Integration+failed.+Perturbances+too+complex.;[+CRITICAL+FAILURE:+CAPTURE+IMMINENT+]" />
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<h4 id="choice-a-cowell">If you chose [A] - Reroute to Cowell Propagator:</h4>
-<details>
-  <summary><i>Initiating Cowell Phase...</i></summary>
-  <blockquote>
-    The engine sputters. Your high-fidelity SGP4 models kick in, predicting the exact trajectory around the binary star. The thrusters align perfectly. You break orbit and secure a comm-link back to Nexus HQ. <b>[MISSION SUCCESS]</b>
-  </blockquote>
-</details>
-
-<h4 id="choice-b-manual">If you chose [B] - Manually recalculate:</h4>
-<details>
-  <summary><i>Accessing visual arrays...</i></summary>
-  <blockquote>
-    Raw data floods your screen. You attempt a hasty numerical integration, but the orbital perturbances are too complex for unassisted calculations. The gravitational pull of Kepler-22 captures your ship. At least the view is spectacular. <b>[CRITICAL FAILURE]</b>
-  </blockquote>
-</details>
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" style="object-fit:cover; border-radius: 10px;" />
 </div>
 
 <!-- FOOTER WITH SHUTDOWN ANIMATION -->
