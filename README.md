@@ -246,13 +246,13 @@ $ load module --hardware
 <br/>
 
 <div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHANTARE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ISHANTARE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHANTARE&theme=tokyonight&hide_border=true&background=00000000&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="48%" />
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHANTARE&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ISHANTARE&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" />
 </div>
 
 <br/>
